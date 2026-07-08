@@ -5,13 +5,16 @@ This repository contains my notes, code snippets, and mini-projects while follow
 
 
  ## 📌 Topics Covered
-React setup & folder structure
+- React setup & folder structure
+- JSX fundamentals
+- Own library creation
+- Need for hooks
 
-JSX fundamentals
 
 ## 📂 Structure
 - customReact
--
+- 01basicreact
+- 01vitereact
 
 ## 📚 Resources
 Chai aur Code YouTube Channel
