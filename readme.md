@@ -70,6 +70,9 @@ As I progress, I’ll be adding:
 
 If you're also learning React or have suggestions, feel free to connect or contribute!
 
+- 💼 LinkedIn: *www.linkedin.com/in/shubhamraj-dev*  
+- 🐙 GitHub: https://github.com/Mask-00007 
+
 ---
 
 ⭐ *If you find this helpful, consider giving it a star!*
