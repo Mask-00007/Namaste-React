@@ -38,13 +38,15 @@ This repository is a collection of everything I’m learning and building while 
 
 Each folder represents a specific concept or stage in my learning process:
 
-├── customReact         → Building a simplified React from scratch  
-├── 01basicreact        → Fundamentals of React  
-├── 01vitereact         → React setup using Vite  
-├── 02counter           → Beginner-friendly counter project  
-├── 03tailwindProps     → Styling with Tailwind & using Props  
-├── 04bgChanger         → Background color changer project  
-├── 05passwordGenerator → Password generator using React Hooks  
+| Folder | Description |
+|--------|-------------|
+| `customReact` | Building a simplified React from scratch |
+| `01basicreact` | Fundamentals of React |
+| `01vitereact` | React setup using Vite |
+| `02counter` | Beginner-friendly counter project |
+| `03tailwindProps` | Styling with Tailwind & using Props |
+| `04bgChanger` | Background color changer project |
+| `05passwordGenerator` | Password generator using React Hooks |
 
 ---
 
