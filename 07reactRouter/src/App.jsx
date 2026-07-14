@@ -10,7 +10,7 @@ function Layout() {
   return (
     <div className="min-h-screen w-full flex flex-col">
       <Header />
-      <main className="flex-grow">
+      <main className="grow">
         <Outlet />
       </main>
       <Footer />
