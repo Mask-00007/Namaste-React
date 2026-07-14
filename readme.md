@@ -11,10 +11,26 @@ This repository is a collection of everything I’m learning and building while 
 
 ### 🔹 Core Topics Covered
 
-*  React setup & project structure
-*  Understanding JSX
-*  Building a custom React-like library
-*  Why Hooks are essential in modern React
+- ⚙️ React setup & project structure  
+- 🧩 Understanding JSX  
+- 🛠️ Building a custom React-like library  
+- 🎯 Why Hooks are essential in modern React  
+
+---
+
+### 🎨 Styling & Props
+
+- 🎨 Tailwind CSS fundamentals  
+- 🧱 Utility-first styling approach  
+- 🔁 Reusable components with Props  
+- 🎯 Dynamic styling using Tailwind + Props  
+
+---
+
+### 🚀 Mini Projects
+
+- 🎨 BG Changer (Background Color Switcher)  
+- 🔐 Password Generator (React Hooks Project)  
 
 ---
 
@@ -22,12 +38,15 @@ This repository is a collection of everything I’m learning and building while 
 
 Each folder represents a specific concept or stage in my learning process:
 
-```
-├── customReact     → Building a simplified React from scratch  
-├── 01basicreact    → Fundamentals of React  
-├── 01vitereact     → React setup using Vite  
-├── 02counter       → Beginner-friendly counter project  
-```
+| Folder | Description |
+|--------|-------------|
+| `customReact` | Building a simplified React from scratch |
+| `01basicreact` | Fundamentals of React |
+| `01vitereact` | React setup using Vite |
+| `02counter` | Beginner-friendly counter project |
+| `03tailwindProps` | Styling with Tailwind & using Props |
+| `04bgChanger` | Background color changer project |
+| `05passwordGenerator` | Password generator using React Hooks |
 
 ---
 
