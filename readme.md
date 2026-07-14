@@ -30,7 +30,8 @@ This repository is a collection of everything I’m learning and building while 
 ### 🚀 Mini Projects
 
 - 🎨 BG Changer (Background Color Switcher)  
-- 🔐 Password Generator (React Hooks Project)  
+- 🔐 Password Generator (React Hooks Project)
+- 🧭 React Router (Navigation & Routing Project) 
 
 ---
 
@@ -47,6 +48,7 @@ Each folder represents a specific concept or stage in my learning process:
 | `03tailwindProps` | Styling with Tailwind & using Props |
 | `04bgChanger` | Background color changer project |
 | `05passwordGenerator` | Password generator using React Hooks |
+| `07reactRouter`    | Routing in React using React Router |
 
 ---
 
